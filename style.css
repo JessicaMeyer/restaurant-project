@@ -1,0 +1,36 @@
+#background, .top-bar, .top-bar-section ul li a {
+	background-color: #6F6E72;
+	color: white !important;
+	font-family: Helvetica, Arial, sans-serif;
+}
+
+/*body {
+	background-image: url('bk_body.jpg');
+}*/
+
+.top-bar {
+	margin-bottom: 110px;
+}
+
+footer {
+	width: 100%;
+}
+
+.container {
+	background-color: #BABFC5;
+	padding-top: 30px;
+}
+
+.button {
+	background-color: #6F6E72;
+	color: #eee;
+}
+
+p {
+	text-align: center;
+}
+
+h1 h2 {
+	font-weight: bold;
+}
+
