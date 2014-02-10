@@ -18,6 +18,7 @@ footer {
 
 .container {
 	background-color: #BABFC5;
+	padding-top: 30px;
 }
 
 .button {
@@ -25,4 +26,11 @@ footer {
 	color: #eee;
 }
 
+p {
+	text-align: center;
+}
+
+h1 h2 {
+	font-weight: bold;
+}
 
