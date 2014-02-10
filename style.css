@@ -4,19 +4,25 @@
 	font-family: Helvetica, Arial, sans-serif;
 }
 
-body {
+/*body {
 	background-image: url('bk_body.jpg');
-}
+}*/
 
 .top-bar {
 	margin-bottom: 110px;
 }
 
 footer {
-	background-color: #6F6E72;
-	padding-top: 40px;
 	width: 100%;
 }
+
 .container {
 	background-color: #BABFC5;
 }
+
+.button {
+	background-color: #6F6E72;
+	color: #eee;
+}
+
+
